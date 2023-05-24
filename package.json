@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/murtazalimtiaz/cryptomania.git"
+    "url": "git+https://github.com/murtazaai/cryptomania.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/murtazalimtiaz/cryptomania/issues"
+    "url": "https://github.com/murtazaai/cryptomania/issues"
   },
-  "homepage": "https://github.com/murtazalimtiaz/cryptomania#readme",
+  "homepage": "https://github.com/murtazaai/cryptomania#readme",
   "devDependencies": {
     "cross-env": "^7.0.2",
     "jest": "^26.2.2",
