@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/murtazaai/pow.git"
+    "url": "git+https://github.com/murtazaai/proof-of-work.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/murtazaai/pow/issues"
+    "url": "https://github.com/murtazaai/proof-of-work/issues"
   },
-  "homepage": "https://github.com/murtazaai/pow#readme",
+  "homepage": "https://github.com/murtazaai/proof-of-work#readme",
   "devDependencies": {
     "cross-env": "^7.0.2",
     "jest": "^26.2.2",
